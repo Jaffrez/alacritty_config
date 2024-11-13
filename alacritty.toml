@@ -1,5 +1,5 @@
 [general]
-import = [,
+import = [
     "~/.config/alacritty/env.toml",
     "~/.config/alacritty/font.toml",
     "~/.config/alacritty/hints.toml",
@@ -8,7 +8,7 @@ import = [,
     "~/.config/alacritty/scrolling.toml",
     "~/.config/alacritty/selection.toml",
     "~/.config/alacritty/terminal.toml",
-    "~/.config/alacritty/windows.toml"
+    "~/.config/alacritty/windows.toml",
 ]
 live_config_reload = true
 working_directory = "D:/"
