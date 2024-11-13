@@ -1,8 +1,5 @@
 [general]
-import = [
-    "~/.config/alacritty/bell.toml",
-    "~/.config/alacritty/colors.toml",
-    "~/.config/alacritty/cursor.toml",
+import = [,
     "~/.config/alacritty/env.toml",
     "~/.config/alacritty/font.toml",
     "~/.config/alacritty/hints.toml",
