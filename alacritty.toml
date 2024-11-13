@@ -1,0 +1,17 @@
+[general]
+import = [
+    "~/.config/alacritty/bell.toml",
+    "~/.config/alacritty/colors.toml",
+    "~/.config/alacritty/cursor.toml",
+    "~/.config/alacritty/env.toml",
+    "~/.config/alacritty/font.toml",
+    "~/.config/alacritty/hints.toml",
+    "~/.config/alacritty/keyboard.toml",
+    "~/.config/alacritty/mouse.toml",
+    "~/.config/alacritty/scrolling.toml",
+    "~/.config/alacritty/selection.toml",
+    "~/.config/alacritty/terminal.toml",
+    "~/.config/alacritty/windows.toml"
+]
+live_config_reload = true
+working_directory = "D:/"
