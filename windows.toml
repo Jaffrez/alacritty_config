@@ -1,0 +1,6 @@
+[window]
+dynamic_title = true
+opacity = 0.9
+decorations = "Full"
+startup_mode = "Maximized"
+title = "Terminal"
