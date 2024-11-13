@@ -1,0 +1,8 @@
+[keyboard]
+bindings = [
+    { key = "Y", mods = "Control | Shift", action = "Paste" },
+    { key = "C", mods = "Control | Shift", action = "Copy" },
+    { key = "S", mods = "Control", action = "SearchBackward" },
+    { key = "N", mods = "Control | Shift", action = "CreateNewWindow" },
+    { key = "X", mods = "Control | Shift", action = "Quit" },
+]
